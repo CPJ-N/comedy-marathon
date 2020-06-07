@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8bd18fba-226e-4fa6-a0ea-27ce329d413c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../comedy-marathon.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comedy-marathon/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comedy-marathon/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comedy-marathon/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comedy-marathon/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comedy-marathon/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comedy-marathon/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comedy-marathon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comedy-marathon/src/main/java/com/comedy/marathon/comedymarathon/ComedyMarathonApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comedy-marathon/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comedy-marathon/src/test/java/com/comedy/marathon/comedymarathon/ComedyMarathonApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1cyPPq829BUsZQlQhRYMK0vFShz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ComedyMarathonApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.comedy.marathon.ComedyMarathonApplication" />
+      <module name="comedy-marathon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.comedy.marathon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ComedyMarathonApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bd18fba-226e-4fa6-a0ea-27ce329d413c" name="Default Changelist" comment="" />
+      <created>1591497838898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591497838898</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1245" height="222" key="GridCell.Tab.0.bottom" timestamp="1591501267038">
+      <screen x="0" y="0" width="1289" height="859" />
+    </state>
+    <state width="1245" height="222" key="GridCell.Tab.0.bottom/0.0.1289.859@0.0.1289.859" timestamp="1591501267038" />
+    <state width="1245" height="222" key="GridCell.Tab.0.center" timestamp="1591501267037">
+      <screen x="0" y="0" width="1289" height="859" />
+    </state>
+    <state width="1245" height="222" key="GridCell.Tab.0.center/0.0.1289.859@0.0.1289.859" timestamp="1591501267037" />
+    <state width="1245" height="222" key="GridCell.Tab.0.left" timestamp="1591501267037">
+      <screen x="0" y="0" width="1289" height="859" />
+    </state>
+    <state width="1245" height="222" key="GridCell.Tab.0.left/0.0.1289.859@0.0.1289.859" timestamp="1591501267037" />
+    <state width="1245" height="222" key="GridCell.Tab.0.right" timestamp="1591501267037">
+      <screen x="0" y="0" width="1289" height="859" />
+    </state>
+    <state width="1245" height="222" key="GridCell.Tab.0.right/0.0.1289.859@0.0.1289.859" timestamp="1591501267037" />
+    <state x="225" y="165" key="IDE.errors.dialog" timestamp="1591500902408">
+      <screen x="0" y="0" width="1289" height="859" />
+    </state>
+    <state x="225" y="165" key="IDE.errors.dialog/0.0.1289.859@0.0.1289.859" timestamp="1591500902408" />
+    <state x="72" y="91" key="new project wizard" timestamp="1591501144494">
+      <screen x="0" y="0" width="1289" height="859" />
+    </state>
+    <state x="72" y="91" key="new project wizard/0.0.1289.859@0.0.1289.859" timestamp="1591501144494" />
+  </component>
+</project>
